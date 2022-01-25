@@ -1,0 +1,49 @@
+
+Websiteမဆွဲခင်
+1. အရင်ဆုံး ဘာsiteဆွဲမယ်ဆိုတာအရင်ရွေးပါ
+
+2. ရွေးပြီးပြီဆိုရင် အဲ့siteမှာ ဘာတွေပါသင့်လဲဆိုတာသိဖို့ designတွေလိုက်ရှာကြည့်ပါ(eg. theme forest, etc.,)
+
+3. colorရွေးပါ
+
+4. Typography အတွက်fontရွေးပါ 
+
+5. ဒီဇိုင်းအကြမ်းချဆွဲပါ ဒါတွေသုံးပြီး‌ဆွဲလည်းရပါတယ် (eg. Figma, Photoshop, paint,  etc.,) Or websiteတခုခုကို referenceယူပြီး အဲ့အတိုင်းဆွဲကြည့်လည်းရပါတယ်(ခုမှစဆွဲတာဆိုတော့ ကိုယ်ပိုင်ဒီဇိုင်းမဟုတ်လည်းရတယ် ကိုယ်ပိုင်ဒီဇိုင်းဆိုရင်တော့ပိုကောင်းတာပေါ့)
+
+6. ဘယ်သူဘယ်အပိုင်းဆွဲမယ်ဆိုပြီး တာဝန်ခွဲပါ team workကောင်းကောင်းနဲ့တိုင်ပင်ပြီးလုပ်ပေးပါ git သုံးပါ
+
+thandartun78038@gmail.com
+hwaioo758@gmail.com
+
+
+Hotel and Resort
+-----------------------
+https://demo1.leotheme.com/ap_booking_demo/en/home-1.html?header=124&leopanelchange
+
+Fresh Food market
+-------------------------
+https://preview.themeforest.net/item/freshio-organic-food-store/full_screen_preview/34166286?_ga=2.207146771.186563037.1640164732-1684776183.1640164732
+
+https://preview.themeforest.net/item/freshio-organic-food-store/full_screen_preview/34166286?_ga=2.207146771.186563037.1640164732-1684776183.1640164732
+
+https://youtu.be/Ae2nwxun9hw (Create a webisite in HTML CSS and JavaScript).
+https://www.youtube.com/watch?v=eXcKOqviLE0 (Color Palette).
+
+
+Google Fonts
+-----------------
+Twinkle Star :
+Pacifico :
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Twinkle+Star&display=swap');
+</style>
+font-family: 'Pacifico', cursive;
+font-family: 'Twinkle Star', cursive;
+Bree Serif
+Lato
+
+Colors
+---------
+https://mycolor.space/gradient?ori=to+right+top&hex=%2311DD19&hex2=%2396C9E3&sub=1
+
+https://www.shapedivider.app/

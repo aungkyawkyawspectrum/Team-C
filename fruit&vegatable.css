@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto";
+
+}
+
+.navbar {
+    background-color: rgb(216, 247, 186);
+    opacity: 70%;
+    width: 100%;
+    height: 80px;
+}
+
+.nav a {
+    color: blue;
+    padding: 0 50px;
+}
+.second-fruit{
+    width: 100%;
+    height: 80vh;
+    background-color:rgba(245, 248, 248, 0.986);
+
+}
+.second-fruit img {
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+    
+}
+.second-fruit h3{
+    font-weight: bold;
+    color: black;
+}
+
+.img-support span{
+    color: rgb(11, 207, 60);
+}
+
+.wrapper {
+    width: 100%;
+    background-image: #ffff;
+    font-size: 15px;
+}
+
+.products {
+    width: 70%;
+}
+
+.our-product {
+    text-align: center;
+
+
+}
+
+.our-product h5 {
+    color: green;
+    font-weight: bold;
+}
+
+.our-product h5 span {
+    color: orangered;
+}
+
+.interest h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
+
+.our-product p {
+    color: rgb(19, 18, 19);
+    line-height: 25px;
+
+}
+
+.container-fruid {
+    display: flex;  
+}
+
+
+ .recheck .card img {
+    width: 100%;
+    height: 150px;
+    object-fit:cover;
+
+} 
+
+.interest .card img {
+    width: 100%;
+    height: 150px;
+    object-fit:cover;
+}
+
+.card-body {
+    background-color: rgb(206, 241, 201);
+}
+
+
+.footer-bg-section{
+    background-color: #332f2c;
+    width: 100%;
+
+}
