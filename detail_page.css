@@ -1,13 +1,15 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+
 *{
     padding:0;
     margin: 0;
-    /* color:rgb(34,56,82,0.9); */
-    /* font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif; */
-    font-family: 'Roboto';
+    /* color:rgb(34,56,82,0.9);
+    font-family: 'Poppins', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto'; */
 
-   
 }
 
 html,body{
@@ -20,11 +22,11 @@ html,body{
 }
 
 
-
 .main-section-bg{
 
     /* background-image:linear-gradient(to left,rgb(36,59,85),rgb(20,30,48)); */
     background-color: rgb(216, 247, 186);
+    opacity: 90%;
     
     
 }
@@ -46,8 +48,8 @@ html,body{
 .nav{
     margin-left: 200px;
 
-
 }
+
  
 .nav-link h5{
     color: #66aa00;
@@ -181,7 +183,6 @@ button-solid:hover {
 
 
 
-
   .item img{
       background-repeat: no-repeat;
 
@@ -219,9 +220,27 @@ button-solid:hover {
   }
 
 
+  .base {
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    opacity: 70%;
+}
 
+.base p{
+    color: #ffff;
+}
+.base a{
+    text-decoration: none;   
+    color:#ffff;
+}
 
-
+.base .social-media a{
+    font-size: 25px;
+    padding: 10px 10px;
+    text-decoration: none;
+    
+}
 
 
  /* Small devices (landscape phones, 576px and up) */
@@ -257,6 +276,7 @@ button-solid:hover {
     }
 
 }
+
 
  /* Medium devices (tablets, 768px and up) */
 @media (max-width: 768px) { 
@@ -297,6 +317,8 @@ button-solid:hover {
       /* background-color: #66aa00; */
       /* margin-top: 10px; */
   }
+
+  
 
  }
 
