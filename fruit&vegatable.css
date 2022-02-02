@@ -1,21 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+
 * {
     padding: 0;
     margin: 0;
-    font-family: "Roboto";
+    font-family: 'Roboto', sans-serif;
 
 }
 
 .navbar {
     background-color: rgb(216, 247, 186);
-    opacity: 70%;
+    opacity: 90%;
     width: 100%;
-    height: 80px;
+    height: 70px;
 }
 
-.nav a {
-    color: blue;
+.nav-wrapper{
+    width: 100%;
+}
+
+.nav-wrapper .navbar-nav{
+    background-color: rgb(216, 247, 186);
+    opacity: 90%;
+    /* width:100%; */
+    
+}
+
+.nav-wrapper .navbar-nav .nav-link {
+    color: rgb(22, 22, 22);
     padding: 0 50px;
 }
+
+
 .second-fruit{
     width: 100%;
     height: 80vh;
@@ -74,12 +91,8 @@
 
 }
 
-.container-fruid {
-    display: flex;  
-}
 
-
- .recheck .card img {
+ .owl-carousel .item img {
     width: 100%;
     height: 150px;
     object-fit:cover;
@@ -88,7 +101,19 @@
 
 .interest .card img {
     width: 100%;
-    height: 150px;
+    height: 140px;
+    object-fit:cover;
+}
+
+.icemixing .card img{
+    width: 100%;
+    height: 220px;
+    object-fit:cover;
+}
+
+.interest .vegetablemixing img{
+    width: 100%;
+    height: 275px;
     object-fit:cover;
 }
 
@@ -98,7 +123,78 @@
 
 
 .footer-bg-section{
-    background-color: #332f2c;
+    background-color:#332f2c;
     width: 100%;
+    text-align: center;
+    align-items: center;
+     
+}
+
+.footer-bg-section .footer p{
+    color: #dad4d1;
+}
+
+.linked{
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    opacity: 70%;
+}
+
+.linked p{
+    color: #ffff;
+}
+.linked a{
+    text-decoration: none;   
+    color:#ffff;
+}
+
+.linked .social-media a{
+    font-size: 25px;
+    padding: 10px 10px;
+    text-decoration: none;
+    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px){
+
+    .second-fruit img{
+        height: auto;
+    }
+    .navbar {
+        height :auto;
+    }
+    .navbar-brand{
+        font-size: 17px;
+    }
+    .products {
+        width:90%;
+    }
+    .interest h2{
+        font-size: 21px;
+    }
+
+    .interest .card img {
+       height: 200px;   
+    }
 
 }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    .second-fruit img {
+         height: auto;
+    }
+
+    .second-fruit {
+        height:auto;
+    }
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) { 
+    
+}
+
